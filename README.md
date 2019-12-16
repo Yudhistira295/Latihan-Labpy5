@@ -21,3 +21,4 @@ Langkah pertama kita buat dictionary dengan format snytax Data={}
 
 #NOTE: 
 Disini keys sebagai Nim dan values sebagai Nama, tugas, uas, uts, dan Nilai.
+![Praktikum5](https://user-images.githubusercontent.com/57041365/70907842-7a49b980-203c-11ea-8ed2-68203ac8e596.png)
